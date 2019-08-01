@@ -1,0 +1,4 @@
+Ошибка: Player content must be built before entering play mode with packed data.  This can be done from the Addressable Assets window in the Build->Build Player Content menu command.
+UnityEngine.GUIUtility:ProcessEvent(Int32, IntPtr)
+
+Решение: Window -> AssetManagment -> AddressableAssets -> PlayModeScript->FastMode
